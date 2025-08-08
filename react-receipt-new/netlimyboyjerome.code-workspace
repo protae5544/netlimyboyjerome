@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "netlimyboyjerome",
+			"path": ".."
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {}
+}

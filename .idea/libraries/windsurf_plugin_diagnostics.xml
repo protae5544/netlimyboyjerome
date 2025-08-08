@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="windsurf-plugin-diagnostics">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/react-receipt-new/windsurf-plugin-diagnostics.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

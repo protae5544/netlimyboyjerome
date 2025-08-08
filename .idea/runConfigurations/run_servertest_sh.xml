@@ -1,0 +1,20 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="run-servertest.sh" type="ShConfigurationType" singleton="false">
+    <option name="SCRIPT_TEXT" value="" />
+    <option name="INDEPENDENT_SCRIPT_PATH" value="true" />
+    <option name="SCRIPT_PATH" value="$PROJECT_DIR$/scripts/run-server.sh" />
+    <option name="SCRIPT_OPTIONS" value="" />
+    <option name="INDEPENDENT_SCRIPT_WORKING_DIRECTORY" value="true" />
+    <option name="SCRIPT_WORKING_DIRECTORY" value="$PROJECT_DIR$/scripts" />
+    <option name="INDEPENDENT_INTERPRETER_PATH" value="true" />
+    <option name="INTERPRETER_PATH" value="/usr/bin/env" />
+    <option name="INTERPRETER_OPTIONS" value="bash" />
+    <option name="EXECUTE_IN_TERMINAL" value="true" />
+    <option name="EXECUTE_SCRIPT_FILE" value="true" />
+    <envs />
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" browser="98ca6316-2f89-46d9-a9e5-fa9e2b0625b3" url="http://localhost:63342/netlimyboyjerome/doc-server/index.html" withDebugger="true" />
+      <option name="RunConfigurationTask" enabled="true" run_configuration_name="setup-demo.sh" run_configuration_type="ShConfigurationType" />
+    </method>
+  </configuration>
+</component>

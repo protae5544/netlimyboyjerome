@@ -1,0 +1,27 @@
+# Ignore OS generated files
+ThF*.tmp
+*.log
+
+# Ignore backup files
+*.bak
+*.backup
+
+# Ignore temporary files
+*.tmp
+*.temp
+
+# Ignore node_modules (if any)
+node_modules/
+
+# Ignore Windsurf files
+.windsurf/
+
+# Only deploy necessary files
+*.html
+*.js
+*.json
+*.svg
+*.css
+
+# Project exclude paths
+/target/

@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+app:
+  # โฟลเดอร์เก็บไฟล์ PDF ต้นฉบับ ชื่อไฟล์ต้องเป็น {id}.pdf
+  storage-root: ./storage/pdf
